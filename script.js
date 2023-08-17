@@ -141,7 +141,7 @@ class Puzzle {
 let puzzle;
 let imgCb;
 function preload() {
-    imgCb = loadImage("https://media.discordapp.net/attachments/1069681121488543925/1134606256963850400/Macklin_a_decatur_Illinois_midwestern_background_f2a9ad4c-399f-4215-ae12-a28c8f2fabfc.png?width=1088&height=610");
+    imgCb = loadImage("photo.png");
 }
 function setup() {
     createCanvas(windowWidth, windowHeight);
