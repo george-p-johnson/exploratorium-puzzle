@@ -141,7 +141,7 @@ class Puzzle {
 let puzzle;
 let imgCb;
 function preload() {
-    imgCb = loadImage("giphy.gif");
+    imgCb = loadImage("photo.png");
 }
 function setup() {
     createCanvas(windowWidth, windowHeight);
